@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adonisShareef.github.io-RahsaanandHakeem/precache-manifest.0e5da620a3cc637731a43a288a152fc6.js"
+  "/adonisShareef.github.io-RahsaanandHakeem/precache-manifest.063a8b345b3757d13a81c07b7a459976.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "website"});
